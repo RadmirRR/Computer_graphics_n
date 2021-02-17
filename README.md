@@ -1,4 +1,4 @@
-# Computer_graphics_new
+# Computer_graphics_n
 
 Визуальные эффекты:
 
